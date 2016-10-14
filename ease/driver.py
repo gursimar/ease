@@ -4,6 +4,7 @@ import sys
 import pickle
 import numpy as np
 import csv
+import pandas as pd
 from sklearn.cross_validation import train_test_split
 
 # change the prompt according to essay data set
@@ -15,8 +16,12 @@ result_filename = sys.argv[2] # csv file containing the result from grading
 
 if __name__ == "__main__":
 	# get traning data and split in train test sets
-	with open(data_filename, "r") as data_file:
-		data = pickle.load(data_file)
+	#with open(data_filename, "r") as data_file:
+		#print data_file
+		#exit()
+		#data = pickle.load(data_file)
+	data = pd.read_csv(data_filename)
+	#print data
 	print "Data size " + str(len(data))
 	train, test = train_test_split(data, train_size = 0.7, test_size = 0.3)
 	print "Train set size " + str(len(train)), "Test set " + str(len(test))
