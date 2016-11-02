@@ -1,270 +1,386 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.indexes.base
+_new_Index
+p15
+(cpandas.indexes.base
+Index
+p16
+(dp17
+S'data'
+p18
 cnumpy.core.multiarray
 _reconstruct
-p0
+p19
 (cnumpy
 ndarray
-p1
+p20
 (I0
-tp2
+tp21
 S'b'
-p3
-tp4
-Rp5
+p22
+tp23
+Rp24
 (I1
-(I78
-I2
-tp6
+(L2L
+tp25
 cnumpy
 dtype
-p7
+p26
 (S'O8'
-p8
+p27
 I0
 I1
-tp9
-Rp10
+tp28
+Rp29
 (I3
 S'|'
-p11
+p30
 NNNI-1
 I-1
 I63
-tp12
-bI01
-(lp13
-S'Now a days, people life span increased. The average life span of the people was 80 plus. The following are the reason for the long life span, 1) Advance medical inventions 2) People knows well about the need of medication ( In olden days, people avoid to goto hospital, due to that the death rate increased, particularly in case of pregnancy) 3) Hygenic habits developed more.'
-p14
-aI2
-aS'Nowadays, people live longer because of their lifestyle. Some of them are into workouts, and people tend to go to the nearest gym just to burn fats and to be fit. They allot money for private gym instructors and even dietitians. On the other hand, other people just go for a one hour run around their subdivisions, or around the park nearest to them. They also join Zumba classes for them to be fit and sexy.'
-p15
-aI1
-aS'In general, people are living longer now.The causes of the people are living longer now are developing the country.The developing and developed countries are very essential for the people are living longer.Because of technology of all these countries are greatest.Medicines and other good things are very powerful for the health of human being.In these days,now one can stop to another because of the talent.In our country,each and everyday talented peoples are born to create the history in the fields like engg,medical to make our country storng.The peoples are living longer to use of medicines and other essential works.I am proud to be a part of my country.Thank You'
-p16
-aI3
-aS"Now a day's peoples living in modern style. In daily life people eating goodfood,juces,fruits,vegetables. people are aware about the exrise.body fitness and physical education. Governments provide the different facilities in backword areas for good life. eating the proper food and needed caleries are the main resons for people are living in long time. There was various medical helps are available. All people should maintain the cleaness in there own areas."
-p17
-aI2
-aS'People are living longer now this is because of the food they eat. Living a healthy lifestyle could somehow increase the life span of the people in the world. People nowadays are fond of doing exercises and work-out for a healthy body. Eating fruits and vegetables could help our boy form illnesses . People now a day live loger because of their healthy lifestyle.'
-p18
-aI2
-aS'People are living longer is a true statement which is possible ,majorly due to new inventions and breathtaking technology in the health sector.The improvement of the health sector was boosted by the industrial revolution in the 19th centuary.Pharmaceutical companies are earning huge amounts of revenue for the single reason there is cure for almost every disease and ailment.Indian companies such as Sun Pharma have been top earners of revenue in the Indian business scenario.The path breaking eradication of small pox,reduction in the cases of polio attacks by introducing polio drops to children,effective administration of insulin to diabetes,introduction of various vaccines for babies such as protection from various viral diseases,antivenom invention to treat snake bites and various other inventions and improvement in the health sectorhave been an impetus for people to live longer.There have also been an increase of health personnel like doctors,nurses,surgeons etc who are actually trained in various fields such orthopaedist,gynaecology,heart surgeons etc who are provinding quality services to the people Science has further grown not only has health sector been improved but also the supporting sectors have also improved such as infrastructure,transportation, communication and many other sectors which has actually improved the standard of living .People earn more than compared during last 100 years and all services are available to everyone . The lives of the people have become more peaceful,there are no endless wars or any war of mass scale happening .Countries urge for peace and cooperation .The wars were a vital reason in the past when thousands used die on the battlefield and other part of people used to perish in famine or in plagues.The present world is different ,countries help each other during natural disasters or famines or any kind of calamity. These are the reasons for the enhancement of human lives at present.'
-p19
-aI3
-aS'In current scenario, PEOPLE LIVING LONGER is only because of TECHNOLOGY. There has been drastic changes over years in the medical facilities that is made available at all directions for easy access to people. There are many awareness programmes related with various diseases being conducted by medical organisations or through media these days so that people get an idea about what the disease is and if such symptoms persist in them they may get it diagonised. IN EARLIER DAYS, ambulance service and experienced doctors to cure uncommon diseases were not there. BUT TODAY, many experienced doctors and services have been provided.'
-p20
-aI2
-aS'NO, I am disagree of that topic. Because of numbar of reasons, like numbar of peoples are death in accidants, cancers, in fire. and I am see in news paper per day approximately 10 peoples are death. means that number of peoples are born and also this quantity of peoples are death. so, I dont want or disagree of people are living longer. And also agree our sciene is reached to the top for solving any human problems,like deaseses, so on. soniya ga'
-p21
-aI0
-aS'I believe that people are living longer now because of the awareness brought by technology. There are four reasons why people are living longer now. First, they are well educated about the side effects of using products with harmful chemicals Second, they are now informed of what might happen if they will continue to patronized processed foods such as products with preservatives Third, there are products available in the market that are natural and organic, although these products are more expensive. Finally, people become more health conscious and give more time to read the contents of the products that they are using. Thus, people are living longer now.'
-p22
-aI3
-aS'People are living longer now because of their proper discipline to their health and this the factor why they want to live longer and also for family. They make this things because their ambition in life wherein they wanted.'
-p23
-aI1
-aS'People are living longer. Because they take good foods with good exercises. Basically, it determines the people activity and their work.\xc2\xa0 People have to teach to their childrens about the healthyness. Then only, their also can live an happiness life.\xc2\xa0'
-p24
-aI1
-aS"We have heard that people of ancient ages lived longer. The reason is that they tried to live by nature, solely depending upon nature. We know the we cannot live without nature. Let us find the some of the reason why they were able to live longer,healthy and hygienically. I firmly believe that there is a creator of nature who has organized it perfectly to help humankind live healthier. So much of scientific inventions has deviated man away from nature. The food habits, the living style, dresses we wear. All of these has affected our health which reduces our lifetime. Our Body is like a machine that is designed to be systematic. God has created us like that by nature, It is very well organized. I am not a science student, but I can explain some of the basic things. Initially our digestive system is wondrous mechanism that is supernaturally created by God. As soon as we eat, when we intake food, it is ready to process the digestion. This is not by our order, it is done automatically, I believe it is the control of God. But as the science evolution started, we started developing varieties of colorful and delicious food, Our digestive system is loaded very much and that is the reason there is so much of diseases like Diabetes, obesity etc. The natural foods are harmless, the fruits, vegetables. They don't ruin our health. But these modern spicy Pizzas, burgers and so much. These are that that spoiled our body and reduced our lifetime. MAJOR REASONS ON FOOD THAT AFFECTS OUR LIFE PERIOD : * jun * contaminated foods. *Artificial attractions and colors that affects our body. We can live longer only if we only intake that is natural which has so much minerals without any side effects in future. I would rather live in a forest to eat fruits, vegetables which are moderate tasty and live longer than to devour modern foods that are spicy and delicious and die soon."
-p25
-aI0
-aS'People have hygenic food and physically fit as well having good job.so the people are happy and living longer now.'
-p26
-aI1
-aS'in general people are living longer in old life ,because of the only reason is that the people are very secure about her health .people are enjoy her life with our success and failure.but now a days we can say thhat this phenomenon is not true,because of the pollution and other some effect like unemployment.beacuse of this reason,now a days people are not leaving longer.A farmer use many fertilizer in the field,this fertilizer is also produces a disease,this reason,now a days people are not living longer.'
-p27
-aI0
-aS'People are living longer now because in today life or world there is very good facilities and very good technology. so it helps to live life safely.In todays worls pepole are very knowledegable and litterate so they know how can handel the problem of life. people live longer in todays worlds there is a main reason behind it is that there are very good facilities about health issue and pepole can treat them in hospitals for better life and it is very helpul of them.The other reasons are the techonology which gives better facilities in every case and every sitituations.'
-p28
-aI2
-aS"'People are living longer now', because people are related to their surroundings,in surroundings they spend their precious life.they fulfill their all basic needs from their environment and spend cheerful life.people live longer because of their fresh environment and being careful towards their health.The specific reason behind it is that they keep themselves healthy and far from the diseases.They keep the the environment neat and clean and take fresh air.They also exercise to be healthy.so they are living longer now."
-p29
-aI2
-aS'With the develpoment of new technology a time human life can increase in contrast that it was several centuries ago. Now a days peole become more aware in all the feild related to medical, certain new inventions take place day by day. so the living standard of people raise and no doubt either that are belonging to a rich society or a middle class people. They look after their children in every feild or we can say that they become aware so thats the thing that is directly propotional to or help in to live longer.. we also done a huge development in medical feild so now to people are not dieing through the disease so that they living longer'
-p30
-aI3
-aS'In general people are living longer now a days. People are concentrating on themselves. They are regularly doing exercises, yoga, etc for making their health stronger. They also improving their diets, taking advices from the doctors about what to eat, when to eat, how to eat. Most of the companies are making herbals for making human body stronger. Many youngsters are taking their fitness seriously. They are going to the gyms, taking instructions from the body trainer and using various supplements for improving body. They daily uses the protein shakes with milk, egg,etc which is a good source of energy for our body.'
-p31
-aI3
-aS'In today, peoples are living longer life. because today many types of technologies are available for saving a life of peples. like their are many types of medicins are founded. for example cancer is the most dangerous deasies. before some year medicins for cancer was not available but today the effective treatment of cancer can do as much as possible.so cause of these new techonologies peoples living longer now.and another side we can say that many types vehicals which makesvery easy to travels a longs distancess.so peopels can travels a long distances very easly l'
-p32
-aI1
-aS"Most of the people now think wisely specially when it comes to their health they become more alert maybe because they experience to their love ones that the cause of death is the unhealthy living that's why as much as early they decided to become a healthy living so they will not experience what their relatives experience. Alot of people love to eat unhealthy food such as noodles, burgers, fries and more some of them drink liquor and some do smoke and they eat less fruits and vegetables and some of the cause is the polution and stress but now they're changing for the better living so they will persue their dreams in their careers or for their family."
+tp31
+bI00
+(lp32
+S'essay'
 p33
-aI2
-aS'the main reason for people to live longer is the development in the medical field. there are medicines available for every disease. So the fatal diseases like cancer can also be cured. -the surrounding environment also plays a vital role in this. Fresh environment changes the mind of people & also helps to relieve stress. -Diet of people also matters in this case. a good Diet maintained can help a person to live a healthy life for more years. -Daily exercising also helps to relieve tension & hence leads a good & longer life.'
+aS'score'
 p34
-aI3
-aS'I THINK PEOPLE ARE NOT LIVING LONGER NOW. THANK YOU !'
-p35
-aI0
-aS'In daily life the polution are very fast created like cae,vehicals , they are many people are hard problem are created and the middel vresion people are not care in life'
+atp35
+bsS'name'
 p36
-aI0
-aS'In these days people live longer as compaired to old days this is because of they don not interfair or take tension of others.Other people must think no one can interfair in their life .Other reason medical system. in these days aproximately all the decies are cured with the help of advancement of tecnology.in old days decices are main problem of deth.'
-p37
-aI1
-aS'The Phenomenon is the causes of some disease. The phenomenon is to cure only the medicines and take a regular treatment in the concerned hospitals.In general the people are living longer now to cure the phenomenon disease. The phenonemon is easily passed to others easily.'
-p38
-aI1
-aS'now a day people are living longer,they be more health concious and maintain ther diet time to time to be fit and fine. for this they join jim to do exercise for ther free time and also intersting to do yoga. In these days they know how important a human body to be fit and fine. because if they are to be interst to fit and fine they cause some harmful problems, and the result of this, they faced same mojor poblems. #CAUSES OF THIS PHENOMENA.. 1. cause they are not intersted to do exercise. 2. lazyness. 3. comfortable zone. 4. moodyness'
+Nstp37
+Rp38
+ag15
+(cpandas.indexes.numeric
+Int64Index
 p39
-aI1
-aS'we are seeing that the life expectancy of people has improved as compared to before. people is living longer now. There has been various reasons. The reasons why people are living longer as compared to past are like, medical facility has improved as compared to past, various vacines are found out for disease, more focus is been given on the research of the medical studies.Standard of living had been improving. Quality of food intake has been better, various standards related to health and food has been introduced. People are more inclined for healthy diet and lifestyle. If this is continued at the same pace time may come when people will live till eternity.'
-p40
-aI2
-aS'Due to development of human society,people are living longer now.many factors interacting together to enable the longer life.there are three most important causes:the quality of food has been greatly improved,people have good medical survive,more and more people realize that regular sports benefits their health.the improving our food qualities is most important of our live long. firstly ,there are various type of medicine that have been found to be in medical scientist which have saves many lives.and secondly higher education for their people,therefore they provided free education until secondary school.these are the cause for people are living longer .'
-p41
-aI3
-aS'"People are living longer now....." now a days we can say that more number of people are living longer in 21th centurie, than in an aceient time the reason behind that is the food required for the proper growth of their body as well as their maintality are provided properly which is not available in previous time period.when an women are pregnent they have all the facilities which are necessary to the growth of her child and also have the guidence of experties or we can say that the proper guidence of doctors.their monthly checkups,medicines and other care from her family which is not properly available in previous time no expert advice,no medicines and other care she can dose lots of work while she is pregnent becouse of this her child does not get proper health and he/she is suffer from many decises such as asthama and so on. when the child are growup their deices are also gets more harmful to her/his health thats why they does not live longer. In 21 th centurie their is expert advice many more new technologies to identify the deciese and have a solution over the ant decieses such as asthama and tumer.beyond this the people are very health concious they maintain their daily routine of their excercise and precousions they are got from their experts also they daily go to the joging,they drink fruit juice than to take more cup of coffe or tea.youth are joining the gyems to maintain their and body.peoples takes the precousions while they are travalling and eating food otside the homes.many machnaries and technologies are introduce to identify the deciese which is unknown to that perticular person they can check their health to identify their health is well proper or not because of all facilities are provided,expert advice and many more thing "people are living longer..............!" and this is benificial to the world to introduce new things.'
-p42
-aI3
-aS'As we all know,that our country INDIA ,is a vast place to live and it is the amalgamation of different people with different thoughts and mentality,people with different cultures ,traditions and customs.There are also people following different religions,castes and dialects.If we roll back the pages of our history,we will see how we have been living in this diverse country.We should also salute the scientists and all those renowned people who have brought great technology and advancement for the country.If we talk about medical science,it has flourished a lot in the past decades.Earlier,people used to die even due to small illness ,but today medical science has a remedy for every disease.There were times when people were dying because of cancer,tumers and so on,but today our government has constructed seperate hospitals for those patients suffereing from these fatal diseases.Also , we should not forget about the cleanliness that is maintained in the environment which is ultimately affecting our health.If the surrounding in ehich we are living is clean,then we are definately living a peaceful and happy life.Also,the lifespan of the people are also increased.The more we keep our environment clean,we will live a more happier and longer life.We should also show gratitude towards our government that organises training and awareness programmes for every indivisuals on how to live a peaceful and healthy life.The people are given training sessions for doing yoga,morning exercises or morning walk,taking healthy diet and avoid junk and oily food.If we are practising these exercises every morning,it would do a lot of benefit to us and keep us away from all diseasesast but not the least,the advertisements that our shown in the televisions are a major source of promotions from where we can also indulge ourselves in the practise of doing exercises.These are are the areas from where we can get alot of inspiration.So,we can rightly say that that people are living longer now.'
-p43
-aI3
-aS'i think that people are living longer now is mainly because of the modern things we have right now. As we know before there were no modern equipment so peoplr tend to work things manually. To give example to this is like farming before people can only do farming manually, Thus making people prone to accidents, But now we have modern equipment to aid our farmers. With modern equipment farmer are able to much work with less effort. Also before certain disease were not curable. But now due to modern medicine. we have discovered new medicine to battle those unknown disease. so that why i think people are living longer now than before.'
-p44
-aI2
-aS'As the questions reveals.The food habbits of them were entirely different from our generation. The food they had were very healthy when compared to us. The people who are living longer now are very rare in case and they are very uncountable. we have many phenomenon in nature some of them are being discussed briefly, due to the food habbits they had from their young age is the one reason for their longer living, they played very well and had many healthy habbits especially ladies had many exercising activities like cooking, griding, washing their cloths by themselves theey also did their household activities by themselves withput appointing any of the women for the work. nowadays people are being doing their works by appointing someone and they are doing their works by using machinaries. This is being very much difficult to live longer. People are being afected by many diseases in thier younger age itself. This is a main phenomenon of nowadays. we have to survive under this and segragate from this habbits. We have to diet very healthy and do our daily workd by ourselves this is also a best solution to our longer live . There are certain peoples who have some of the heridity problems they have to be taken care properly and lead according to the doctors advisory. In this generation people like teenage are adicted to fast food like pizza, burger,oil fried items. These items, when we consume more will lead to many problems like obesity, hearthole, thyroid. we have to exercise for atleast an hour daily . This will be an good practise. Daily people should consume more food at morning, half of the meal at afternoon and very lesser food at night this avery good practise for a normal man. Daily drinking of green tea, eating of fresh fruits wiill also lead a longer life. These are the phenomenon on my point of view.'
+(dp40
+g18
+g19
+(g20
+(I0
+tp41
+g22
+tp42
+Rp43
+(I1
+(L78L
+tp44
+g26
+(S'i8'
 p45
-aI0
-aS'in my openion people in this era of technological advancement of medicine and equipments have more live expectency. Reason behind this is new technolgies in medical field by which we can get the information regarding the deciases and patterns between them. Early findings makes it a better to resolve the problem. availability of better hygenic foods and drinks make these things more adptible for human.'
-p46
-aI1
-aS'In today\'s era,the people have become more health concious because of which they do lots of exercises and yoga and eat lots of healthy diet which is not only good for their body and mind growth but also for their overall growth.Their is a great saying by our ancestors that "To live a longer and fruitful life you have to stay healthy. one of the main reason to live longer life is to be able to keep oneself happy and enjoying every essence of life.Doing proper meditation can be key to longer life. People have stopped taking tension and stress which are considered to be most dangerous part in any one\'s life and because of which their life have become longer.'
-p47
-aI2
-aS'Nowadays there are various different ways a human being can live longer. Various kinds of medicines and foods are available to live longer. But actually people can live longer when they are in a clean environment and lead a happy life. In most cases people who stay in polluted environments have to face many diseases and other type of illness. when living in a safe and secure environment, people are healthy n are free from diseases. Even if they get any type of diseases they can be cured by simple methods.'
+I0
+I1
+tp46
+Rp47
+(I3
+S'<'
 p48
-aI2
-aS'main couses of longer life is modern science and many discovery about body of humans.in old time people are have short life but when we discovered many importent knowledge about body cells , dna,etc...and start work to knowledge about our body, in future technology is very fast and people are living more longer from now.many scientist are tried to known secret of life and many succes find their. before some time our scientist discoverd a particle(hingboson).This partical known as god particle.it is very importent discovery in the history. it is useful for under standing life construction and get more knowledge about life time'
-p49
-aI1
-aS'Death is one of the unevitable things to happen in our lives. No one really knows when our lives will be taken from us except from Him. People tend to live longer nowadays beacuse of the practices they do. More efective medicines or enhanced ones, plus supplements, are being invented to maintain our health and to cure illnesses that cause deaths. People also have their own daily or regular routines such as daily exercise to maintain their figure. Indeed, modern technology is a great help to people in living their lives easier.'
+NNNI-1
+I-1
+I0
+tp49
+bI00
+S'\xe1\x00\x00\x00\x00\x00\x00\x00\xba\x00\x00\x00\x00\x00\x00\x00\x91\x00\x00\x00\x00\x00\x00\x00\\\x00\x00\x00\x00\x00\x00\x00\x7f\x00\x00\x00\x00\x00\x00\x00f\x00\x00\x00\x00\x00\x00\x00\xf8\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\xf5\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x8f\x00\x00\x00\x00\x00\x00\x00\xcd\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00.\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00\xd2\x00\x00\x00\x00\x00\x00\x00\x9e\x00\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00U\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x000\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00\xea\x00\x00\x00\x00\x00\x00\x00\xdf\x00\x00\x00\x00\x00\x00\x00\x94\x00\x00\x00\x00\x00\x00\x00\xe7\x00\x00\x00\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00\xe0\x00\x00\x00\x00\x00\x00\x00\xce\x00\x00\x00\x00\x00\x00\x00\xbe\x00\x00\x00\x00\x00\x00\x00\xf0\x00\x00\x00\x00\x00\x00\x00u\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x00\x00\x00\x00\x9c\x00\x00\x00\x00\x00\x00\x00[\x00\x00\x00\x00\x00\x00\x00\xed\x00\x00\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x00V\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\xd4\x00\x00\x00\x00\x00\x00\x00t\x00\x00\x00\x00\x00\x00\x00\xdb\x00\x00\x00\x00\x00\x00\x00\xfd\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00v\x00\x00\x00\x00\x00\x00\x00\xa6\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00\xca\x00\x00\x00\x00\x00\x00\x00k\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x03\x01\x00\x00\x00\x00\x00\x00\xc6\x00\x00\x00\x00\x00\x00\x00\xa5\x00\x00\x00\x00\x00\x00\x00\x8c\x00\x00\x00\x00\x00\x00\x00\xb2\x00\x00\x00\x00\x00\x00\x00]\x00\x00\x00\x00\x00\x00\x00Y\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x00\x00\x00\x00\xc4\x00\x00\x00\x00\x00\x00\x00_\x00\x00\x00\x00\x00\x00\x00\xbb\x00\x00\x00\x00\x00\x00\x00\x82\x00\x00\x00\x00\x00\x00\x00\xd8\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x00\x00\x00\x00\xa9\x00\x00\x00\x00\x00\x00\x00\xaa\x00\x00\x00\x00\x00\x00\x00\xeb\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00\xc9\x00\x00\x00\x00\x00\x00\x003\x00\x00\x00\x00\x00\x00\x00\xbf\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x00\x00\x00\x00\xf4\x00\x00\x00\x00\x00\x00\x00\x83\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00'
 p50
-aI3
-aS'develop on villege and then devloping hospital and then dcoters ect... people going goinf hosptal surgeries worker on develop the foring dabld using on people then people are living longer and then gein is devolped on new young man and then people devloping a knowlage and then go to hospital every person go on dactors and then lot of dectors in my country but each and every person going on hospital example sugar pesand, hiv. money is very importan on county.relation develop on my routaion important on blood relasion my sister and brothers gin is very very importan he bacause using on bload. life is a very import and body condsion very import it will make'
-p51
-aI1
-aS'People are living longer.Because they need rich life and enjoyment in your life.Many people are need the devlopment in there life.But all people are go forword from every one.They are create a new technology and culture.Many people are genrally honest and great.They are devolop in there life.They are take enjoy lif'
-p52
-aI0
-aS"For those people who are living longer right now are the people who's living a healthy life by doing some extra curricular activities like running, playing sports they'd really lovea and they are having a proper diet by eating healthy foods such as fruits and vegetables. no fatty or oily foods like pork or chicken skin, no preservatives or what we call junk foods. Meaning they eat properly and not that much for them to get fat or bloated. Also, they are drinking milk to take care of their bones and taking some vitamins to gain energy for their bodies."
-p53
-aI2
-aS'Nowadays, the lifestyle of the people has changed to a great extent as compared to the olden days. The basic needs of the people in the olden days wer less as compared to now. With the increase in needs man has also increased his expenditures. But the case is that there is no income as compared to his requirements. there is scarcity in employment rather there are no employment as the individual wishes to have. With all this reason the people are not able to have the much more savings to have the luxuries of life . So many of the people are living a general life. With all lifestyle change there have been many'
-p54
-aI0
-aS'At the present world,people tend to live longer it is beacuse of the precautions and the basic facilities available at the present world economy.The new medical facilities have ensured that people would be prevented from diseases being evolved due to the pollution and unhygenic society.New medical facilities such as vaccines,poliyo drops,cancer prevention tablets,pre-injection for diseases have be included in day-to-day peoples life.These vaccines and pre-injections should be manditorly taken atleast once in two months in order to prevent the forth coming illness.The economy has been highered where most of the people are well educated and well settled,they tend to have all the facilities in order to stay healthy and strong enough to face anything and anywhere.the food what we get now are not much hygenic,people get attacked beacause of letting them go to have road side foods and soon thet get affected.Once they are attacked with some disease they fall a sick and they move to the best doctors in town and get themselves checked and get injected and are prevented. Due to the best hospitality facilities,people are being cured easily because we have got the best doctors all over the world,who has undergone differnt researches in finding out the best medicines inorder for the better curing of the diseases.The cancer is being very common and is being evolved very easily even to the small kids and teenagers.the prevention to these cancer diseases have created a revolution and it is easy go process or operation being performed to cure the cancer out of oneselves.The best medicines have be found for curing of cancer diseases in the abroad countries.It is manditory that the new born kids are given vaccines once in two months or once in six months in order to the kid to stay healty and longer and disease free.Thus only by taking up these vaccinies and poliyo drops dosent mean one can stay healthy and happy,it does matters oh how he brings himself out being happy and stressless.the more he/she is stressed up the more the amount he/she is goin to be affected.Thus a person who remains happy and healthy and concious of what happening to their health and those who take much more care about themselves live longer and happier.'
-p55
-aI5
-aS'peoples are living longer in earlier days because there is increase in medical technologies'
-p56
-aI1
-aS'the people are living longer our in life and there life whats new idea are created in our life.the peoples are life are living in enjoy more .every people are his own life ara make a good and beautiful foa living a longer life.'
-p57
-aI0
-aS"People are living longer now a days.This is very good for the people.There are some causes for this phenomenon like people perform's exercise on the daily basis.People eata healthy food.Mostly people avoids the spicy foods.People try to excercise regularly and go for a morning walk.People follows th appropriate schedule for the breakfast,lunch and dinner.People are drinking healthy coldrinks."
-p58
-aI2
-aS'my opinion on people living longer now are without a doute people living longer these days than ever before while there are many phenomeanon on i believe on the people who are living in our state and i would like those people who are doing some unwanted and very looser type work i do not like that type people and want he improve her thinking and do help to some other people. for the development of people who are living longer now that are develop her knowledge and first of all advance in the science and technology have done a lot to expend our natural lives.'
+tp51
+bsg36
+Nstp52
+Rp53
+a(lp54
+g19
+(g20
+(I0
+tp55
+g22
+tp56
+Rp57
+(I1
+(L1L
+L78L
+tp58
+g47
+I00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00'
 p59
-aI1
-aS'people live longer now because people now a days are more educated and very well informed about what is healthy to eat ,drink and do. People also have access to many Doctors that specializes in different aspects of science for our health and we now have advanced centers and scientists who focus on preventive medicines and vitamins which help boost immune system and makes us healthier. people now a days also invest on organic food and drinks. we pay more for free range animals and no chemical vegetables. their are many companies who spend and take time to better our food and drink sources for us to be healthier.'
-p60
-aI3
-aS'essay is phenomenon of thiss metter i like u betch engg. the civil engg. are most profit in which jab .the btech is more proffesinal tere are to kinds of in which the teacher are more gudines in me . soo i like tahe btech some i kind off u say that meee kusghfeyerhfkeruhyfekrufyherkfheruftyejfhwejkdhfkwejhwekhj'
-p61
-aI0
-aS'The scientific and technological advancement has influenced the life span of people. According to the recent surveys, people, nowadays are living longer than earlier. At earlier times, medical science and medicines were not sufficient to cure diseases and people demised due to extreme sufferings and pain. But in 21st century, the entire scenario is completely different. Medical science has come up with solutions to cure deadly diseases like small pox, plague, cholera, cancer, Tuberculosis and the list is endless. A huge credit goes to \'Biotechnology\', the branch of science which deals with biological technology and advancement. Engineerings from bio-medical fields have come up with new instruments and technology which made detecting cancer easier. It is the pride of science, that nowadays, a deadly disease like cancer is curable. Apart from technological advancement, social life and environment also play equal role to enhance Human life span. Compared to old times, when people were not aware of proper cleanliness, diseases and infections were common but nowadays, people take special care of cleanliness and hygienes. Roads and drains are cleaned in every due time. Special departments are being made in every area who take care of cleanliness and hygienes.Hence the common infections and diseases which demised people earlier are now no more a matter of concern. Individuals themselves have become aware of their health. On addition, Indian Government has itself taken initiatives named "Swaach Bharat Abhiyan" which is helping India to become cleaner and better place to live in. However, technology and cleanliness are not the only reasons which have enhanced people\'s life span. A very important point to be noted in this context, is the rising popularity of yoga and fitness which has successfully increased the life span of an indivisual.'
-p62
-aI4
-aS'as we all know that this is technological world .there are many technologies in everyu field.i.e.in medical field also.medical science ara using many technologies and saving peoples lives.before some time if someone is sufferying from any desease then there is no any medical facilty or money to save life.but now there are hospitals in every city and government is also helping peoples if there is major deseses.there are many facilities now.'
-p63
-aI1
-aS'yes,i agree this phenomenon.this time in general ,pepole are living longer time.Because bio-medical technology every day developed'
-p64
-aI1
-aS'now first of all to be development of health science and peoplesare able to live longer . in the past there are many diseases which could not be cured caused the death of thousands of adults and childrenall over the woard. for e.g before finding the best way of treatment peoples are taking part in many healthy activites in early morning they do execise andother physics activites to the developed toessay living the longer and healthy life to people they are developed activites like that jogging , swimming etc...'
-p65
-aI2
-aS"I don't think so that people are living longer nowadays. In these days, many problems are there which reduce the life expectancy of the people. Today's scenario is not good in food, more pollutions is there leading to more diseases, trend of consuming alcohol is much more in today's world by the youngsters. What i observe in everyday is that no one is assuring anybody good quality in food and other things."
+tp60
+bag19
+(g20
+(I0
+tp61
+g22
+tp62
+Rp63
+(I1
+(L1L
+L78L
+tp64
+g29
+I00
+(lp65
+S'Yes,I agree in our normal life many people are living longer time because there are many reason like-home town, bussiness , jobs, etc.To sift the places there are associated with some problems like- travelling problems,unknown about new places,etc.In other cases some people are do not like new places and some people do not want to go from there home town.The basic reason is that people have their job so to people are live long time in one places and better knowledge about town.'
 p66
-aI1
-aS'People are living longer now due to their change in diet, and lifestyle. They eat healthier food like vegetables and fruits that provides appropriate nutrient to live longer, and instead of eating fatty meat, they turn to red meat and white meat like beef and chicken. They also stopped smoking cigarettes, and avoid drinking too much alcohol and soda drinks that decreases risks of heart attack and diabetes. They also have a proper resting time and exercise to keep them lively and healthy. People now also values time with families that and friends that makes them more happier and live longer.'
-p67
-aI2
-aS'As the field of Medical science have been developed and improved comparitively in past,which help the people to get cure as soon as posible when ever they are effected by any of the diseases or any other health issues. And the health awares programs are been encourage by everyone in the society,as wel as the government.government takes many measures to have best medical facilities for the people. The present generation people are more of health consious, as everyone wants to be fit and healthy.. Thus due this reasons the people living longer .'
-p68
-aI2
-aS"'In general, people are living longer now', this phrase directly implises that the average age of the people now has increased. The statistics and the government recods supports this fact. the average age, life expectancy etc. has increased considrably. This is a result of the ever developing medical science and public awareness of the different health hazards. In the past few years, medical science has developed exponentially. New cures and medications are being invented everyday. Dieseases which were considered incureable are now being cured even at every local dispensery. Diseases like Polio, Hepietitus A, Hepetitus B etc. are now being cured by giving vaccinations and medications to young infants and children so that there is no chance in the future for any mishappening. Even chronic diseases like Cancer, AIDS, TB etc. are being cured at some level to save millions of life. In old days the medicals science was not that developed, people died of dmall diseases because they did not received proper medical attention.Hospitals were far and few, doctors were not available readily. This led to millions of deaths at young ages. The other reasons behind the increased life of people now a days is the public awareness and proper diet taken by people. People are now aware of many health hazards, they visit docotrs regularly and try keep their bodies healty by various exercises, yoga, meditation etc. Children get proper nutritional diets which helps their growth and development. But on the other hand, the phrase also has a contradictory nature, people now a days are indulged more in unhealthy lifestyles. Smoking, alcohal, junk food has become a part of life which is leading to various life threatemimg diseases like cancer, dibeties, obesity etc. This unhealty lifestyle is adding to the deaths of millions."
-p69
-aI5
 aS'in genral peoples are living longer now because it can be care for health properly.it can be walk for daily.they can cheked the health properly for the doctors.it can for eating vegetables.it can take health care properly.the child of the old peoples can care properly for parents so that this reasons it can leave longer life'
+p67
+aS'yes people are living longer now.today science is the highest peak in the world.many technologies aer searching every day who is making longer and wonderful life of man.in the aera of maths world is increasing many technology lile as mobile ,mascheensetc.in the area of medical many seekness solution is searching.in past time cancor treatment is not possible but some of few day before a doctor of japan .in a longer life expecaancy is very simple.in old time people majority of people can expact to reach long.many government policies are launched for health developing programme.in this time many [people are ed'
+p68
+aS"Most of the people are becoming aware of their health. Now a days there are alot of surveys shows that one of the reasons why people die in their early 40's are health problems. Such as heart attacks is caused by eating high colesterol substance. Now more and more health programs and excercise techniques are being showcase in the television and thru the internet so that everyone could participate. Even to a busy schedule everyone could do it. And there are cooking progmars that makes are cooking more faster and more healthier. So this programs makes us aware to be more healthier."
+p69
+aS'Nowadays there are a lot of surveys that is being held to make us aware of what we eat, drink and do. We start eating healthy and organic foods. With this awareness, we start living a healthy lifestyle that makes us immune to most of the known diseases. We keep ourselves fit by joining fitness clubs. Consulting a doctor to suggest to us a right regime that would suit our body and health.'
 p70
-aI1
-aS'I totally agree with the point that people are living longer now. As in present era medical science has achieved in milestone .In present there are plenty of hightech equipment available that can easily cure and tell the exact disease .Now heart transplant,kidney transplant even the hip transplant are common now-a-days that were used to be life threatening cause in the past .People have adopted a new lifestyle to live healthy and fit life .Now-a-days people are more consicous about their health and physic to avoid medical expensive.Moreover now people want to live their dreams.'
+aS"For those people who are living longer right now are the people who's living a healthy life by doing some extra curricular activities like running, playing sports they'd really lovea and they are having a proper diet by eating healthy foods such as fruits and vegetables. no fatty or oily foods like pork or chicken skin, no preservatives or what we call junk foods. Meaning they eat properly and not that much for them to get fat or bloated. Also, they are drinking milk to take care of their bones and taking some vitamins to gain energy for their bodies."
 p71
-aI2
-aS"yes it is the real fact people are living longer now because every one want to create a new thing for a world and having a comfort life for his family. if we talk about at the present generation a type of person only right to live long who have knowledge how to speak and having the knowldege of communication skills also. At the age of mature some students wants to success in his dream but because of the many problems facing like higher education fees which is not bear by his family they are very complicated to think to corporate and how they success in his life but the higher family students who are dont care about his future those type of student want to live longer because of knowledge of the really aspect of life and all which is in his environment there are very commont thing is that there are big difference between a studet which belongs to high budgeted family and ad student which belong to low budgeted family is the education qualification After this we talk about big politicians which are heavy budgeted grant and knowledge of manpower also these types of person also want to living longer now. Causes of phenomenon are as follows: The most common cause of phenomenon it is based around on the process of elimination with many scientific and systematic knowledge but if we talk about today many doctors try to remove this disease and find out the main precaution of the phenomenon 1 Method of agreement 2 Method of difference 3 Method of agreement and difference 4 Method of Contonimant These are the most popular and most advanced causes from which a human does'nt be safe In the method of agreement this is cause because of incresing the power of consolodation. In the method of difference there is difference between the IF we talk about method of agreement and difference in this process CO2 is increase his attainment level and which one is the cause of phenomenon And at the last i"
+aS'In general, people are living longer now.Discuss the causes of this phenomenon.Use specific reasons and details to develop your essay.'
 p72
-aI0
-aS'Owing to the improvement in medical infrastructure, medicines for many epic diseases have been found. Not only for that even medicines for different types of cancer have been found. medicines for genetical diseases have found with the help of nano technology. stem cell therapy helps in curing many diseases. Medicines which are not available only in foregin country are now accessed through modern transport facility. there are many live saving drugs available in the market in less price due low cost of production. due to competition many pharamacutical company manufacture medicines at low cost to increase there reputation in the market.'
+aS'Improved access to healthcare has risen the number of years we live The advancements in technology in the fiel of medicine has not just benefited the rich and the affluent, but it also has trickled down to developing nations. One of the reasons this has happened is because of the availability of generic medicines. Indian pharmaceutical companies have played a major role in improving the access to medicines by manufacturing life saving drugs such as ARTs for HIV patients and cancer drugs at a fraction of the cost of the same drugs manufactured in the West. Even global health institutions such as the World Health Organisation (WHO) distributes generic good quality medicines in developing nations such as African countries, India, Sri Lanka and Bangladesh which have been plagued by AIDS, multi-drug resistent TB and other chronic illnesses. Better access to medicines has helped raise life expectancy. In addition to improved access, the WHO is working with governments throughout the world to develop health programmes with an aim to make healthcare facilities available to the poor. They work in tandem with local non-profits, NGOs, village and local governments to implement national health policies and encourage a positive and scientific attitude towards health. This has had a positive impact on the health of people in various age groups and has resulted in reducing child mortality rates, therefore extending the number of years people live. Also, national health programmes such as Obamacare in the United States, the universal healthcare programme in United Kingdom and a more indigenous example and the DOTS tuberculosis control programme have helped improved access to healthcare by providing cheap and free healthcare facilities to every member of the society, regardless of his or her income. This, in turn, has helped people live longer, healthier lives.'
 p73
-aI2
-aS'Below are the points wich are help for the people living longer. Now a days most of the people suffering from polution,we need to solve this problem by stop splling of trees. Now a days most of the people prefore the junk foods like oil food we need to ignore these for living longer. For living longer we need to do YOGA it is more importent for our life, by using yoga we will get better ideas physical strength . For living longer everday we need to do Yoga and meditation and we need to take healthy food everday at specefic time.'
+aS'Actually people should live long to take care of young generation.without old people we cannot run our family,they are the pillar of the family,old is gold'
 p74
-aI1
-aS'Let us discuss about the topic " people are living now " what are the causes of this phenomenon .more over in india major cities like Mumbai,Delhi,Chennai,Banglore,Hyderabad .Nearly 1 crore people are living in each city according to 2016 census. The olden people are living longer because of the Good nutrients ,good healhy foods. in olden days junk food is avoided byt now a days junk food is getting increased. for the longer living daily good excersise ,nutrient foods , junk food is avoided and lots of sleep. Good job satisfaction is important in order to reduce stress and live happily. olden days ther are providing good food ,fitness, sleeping well. bu'
+aS"People are living longer now because they are staying fit by having healthy foods like vegetables, fruits, juices. Some people are living more than 100 years because they are doing exercise daily which makes them to live longer. They are following the correct diet whick makes them active always. Some people are staying fit because they are always smiling and make others smile which helps them to live longer. Nowadays both men and women are doing work outs which helps them to stay fit and healthy in today's generation. People are doing hard work nowadays which makes their body strong and flexibile so that they are living upto 100 years. To live long we have to maintain our body and mind equally because if it is not in a balanced state we may suffer from any illness which reduce our life time. Persons doing exercise or any workouts they must follow their diet correctly and also must follow the schedules correctly if they don't follow it it may create any health issues to them which may reduce their life time so it is very important to maintain the schedules with correct time. For example if you take body builders they will maintain the correct diet and correct schedule which makes them to stay fit and live longer. There is a statement that a person who sits for more than 11 hours a day will die within 3 or 5 years so it is better not to sit for more than 8 or 9 hours in a day. Walking is a good exercise for a man which helps him to stay fit and live longer. There is an other statement which tells that clapping helps a person to stay fit and it keeps one's mind calm and relaxed so it is better to clap daily for atleast 20 minutes which tunes up our mind so that we can do any work with enthusiasm and with full confidence. We have to advice our children to clap daily which will make their handwriting good and helps them to be active always. We have to avoid some foods in our diet because the particular foods will cause any damage to the organs which will reduce our lifetime. The foods are aerated drinks like coco cola, pepsi, fanta, mirinda. Then we have to avoid junk foods like pizzas, burgers"
 p75
-aI1
-aS'General people are living longer life beacause of many things.Just like to eating of useful things are human body required and also medical facility are also availabe so to make human living life are easy.thats why people are living longer life.'
+aS'main couses of longer life is modern science and many discovery about body of humans.in old time people are have short life but when we discovered many importent knowledge about body cells , dna,etc...and start work to knowledge about our body, in future technology is very fast and people are living more longer from now.many scientist are tried to known secret of life and many succes find their. before some time our scientist discoverd a particle(hingboson).This partical known as god particle.it is very importent discovery in the history. it is useful for under standing life construction and get more knowledge about life time'
 p76
-aI1
-aS"LONG LIVE OF PEOPLE The people in now-a-days are living long life. They are happy to live more days. Some may not like to live more days. The causes may not be much. But the main cause will be that, they may be healthy enough to live more days. This shows that our technology has developed, which makes the people to live more days. REASONS: The reason that i believe in is that technology development in science & medicines. The grandparents of ours may live long days because of their food habits & eating healthy food. These would be the reasons for people's long live that i think so."
+aS'The logetivity of people is longer these days. This is a phenomenon that is happening by improved medical fecilities and because of the advancement in medicine.'
 p77
-aI2
-aS'In world many type of peoples are live some are good ,some are bad,some are lazy ,some are active,and every one as different role in life.Some people are living longer now ,in that time younger people are soon died and old one live more because of our diet.And our generation can work less then our body can not do more work. And old one people can take things is full from vitamins and proteins that all things people are living longer now'
+aS'PEOPLE are living longer now the main reason might be and advancement in medical research . People lifespan are gradually in pace just because of they are either too much concern about their health issues. TO be physically fit is very much crucial for the point of view of every individual .now the science has so much progress that even a vital disease like CANCER IS cureable if its symptoms are identified at its first stage.every person wish to live longer untill his/her dream is fullfilled . The only way to live longer are-; yoga,joining gyms ,waking up early in the morning .'
 p78
-aI0
-aS'Every person needs to live longer.according our censes, In todays world the life span of a person is increased. basic facts about their rise in life span is the essential care in their health. Every person do yoga, physical exercises in morning as well as evening. They allot some time per day in their life to do these exercises. They also attend regular health checkups using modern gadgets without visiting hospitals and maintain proper diet also. They prefer eco friendly environment to work as well as to live. they use noiseless vehicles to travel which reduces the pollution alot and leads to green housing. thus a people life span is increased.'
+aS'People now a days have a lot of excitement for life.A lot of new things are coming in our lives take it as technology.We are looking forward to the glorious future.People have a desire to live their live with full of happiness with their family to look forward on the future of their children or grandchildren.so as a whole people do want to live more so they can enjoy more with their family,with the technology also.technology has given a new way to life,a new way to see the world differently.Living for long is every single person\'s desire but that only depends how positive you are to your life.The more you want to do something no matter through what you have to go through.Technology brought life when people left their hope.It brought happiness when they were sad and alone,nothing to do for.It gave simple idea to do much work in least time.The invention brought a thought of "What\'s next?" in everyone\'s mind.To be honest people now a days are more dependent on technology let it be simple thing as writing also.the more people are depending on technology the more they form a desire of seeing the next or you can say future in a different way.May be it is technology which led people to see their lives in a different way which made people to look towards the future.Technology never left our hand when people do but still technology can not be as faithful as a person who is with you even for the least time.Certainly,it does help us in almost every aspect of life and may be it is the best as well as the worst invention of mankind.However,There is something more dangerous than technology what I think is "Religion",the creation of mankind which is the worst enemy for the mankind itself.Yet can not be helped,because the people who made it,can not destroy it until they feel so.The word "religion" differentiated people made them of a different world,made them into enemies,led to war zone and so to destruction.'
 p79
-aI3
-aS'according to my point of view people are more healthy because of gym or physical fittness ,thats why people are living more.this is a good thing that they are fit.this is sometime very dangerous for our enivornment.our enivorment use many type of gases that harm oyur society so that totally affect the life of a man.most of them uses harmful medicine that also led to increase the increase the life of a person.so many new technology was increasing day by day to live a long life.to live a long life we have to make our body fit . physical fittness is one of the most important thing for the enivorment to live a long and a happy life.'
+aS'In general, people are living longer now.The causes of the people are living longer now are developing the country.The developing and developed countries are very essential for the people are living longer.Because of technology of all these countries are greatest.Medicines and other good things are very powerful for the health of human being.In these days,now one can stop to another because of the talent.In our country,each and everyday talented peoples are born to create the history in the fields like engg,medical to make our country storng.The peoples are living longer to use of medicines and other essential works.I am proud to be a part of my country.Thank You'
 p80
-aI1
-aS'Now a days people are living longer now because of their cautiousness.Now a days people are very much aware about their life and people are doing that which will make them to live longer.People are doing yoga and meditation which make them fit.And people are very much careful about their food.People are also taking fruits and vegetables which make them healthy.Main disease is tension, if any body is having any tension then that cant cured by the doctor.Now a days many people are spending their time in movies..'
+aS'As we all know,that our country INDIA ,is a vast place to live and it is the amalgamation of different people with different thoughts and mentality,people with different cultures ,traditions and customs.There are also people following different religions,castes and dialects.If we roll back the pages of our history,we will see how we have been living in this diverse country.We should also salute the scientists and all those renowned people who have brought great technology and advancement for the country.If we talk about medical science,it has flourished a lot in the past decades.Earlier,people used to die even due to small illness ,but today medical science has a remedy for every disease.There were times when people were dying because of cancer,tumers and so on,but today our government has constructed seperate hospitals for those patients suffereing from these fatal diseases.Also , we should not forget about the cleanliness that is maintained in the environment which is ultimately affecting our health.If the surrounding in ehich we are living is clean,then we are definately living a peaceful and happy life.Also,the lifespan of the people are also increased.The more we keep our environment clean,we will live a more happier and longer life.We should also show gratitude towards our government that organises training and awareness programmes for every indivisuals on how to live a peaceful and healthy life.The people are given training sessions for doing yoga,morning exercises or morning walk,taking healthy diet and avoid junk and oily food.If we are practising these exercises every morning,it would do a lot of benefit to us and keep us away from all diseasesast but not the least,the advertisements that our shown in the televisions are a major source of promotions from where we can also indulge ourselves in the practise of doing exercises.These are are the areas from where we can get alot of inspiration.So,we can rightly say that that people are living longer now.'
 p81
-aI2
-aS"It is indeed an encouraging fact that the average longevity, which is directly related to better health of individuals across the globe has strikingly increased over the years. Major contributiors to this are the steps actively taken by governments to reduce infant mortality and pregnancy mortality rates of women, which were leading to death during pregnancy. Several other factors have also contributed to the increased longevity of individuals like better health facilities available to the people, in general at affordable rates, inreased service rates of ambulances leading to lower casualties overall, an almost elimination of some diseases like tuberculosis etc. Also, social media has played a humongous role in informing people about the daily exercises and routines they need to adopt in order to lead a healthy life. Various forums on internet are used to share such information. Also, the rise of health maintenance practices suh as 'Yoga' have served as a major cause among the masees by making them actively engage in taking good care of their own selves. Various other campaigns for breast cancer, uteral cancer etc. have enabled women to be informed about such diseases and has helped several women to diagnose such diseases in early stages. Companies today also employ annual health check-up policies which help the employees take good care of their own. One intangible aspect that has resulted intoincreased longevity is the rise in income levels of people, in general. Not only has medical assistance become more affordable, it has also led to better retirement planning by individuals which has enabled them to live satisfactorily even post retirement, with sufficient amount of funds to sustain and lead a healthy life. Thus, steps actively taken by the governments along with rising awareness regarding health and diseases by various media has helped people lead healthy lives."
+aS'peoples are living longer in earlier days because there is increase in medical technologies'
 p82
-aI6
-aS'Life is only one time. any one can live for longer time in earth... because some think is to achive to aim... and not to satisifaction to our dali life.. many pepole can do perfect work. in our life. human brain not stable. because the changing world... so new inovacation , thots, can not achive in our life.. so human live in longer time.. in our life human get not ill propely beacuse in medical field more develop. and world is very very compact.. because useing internet.... so ever one can do better life in today also.'
+aS'Below are the points wich are help for the people living longer. Now a days most of the people suffering from polution,we need to solve this problem by stop splling of trees. Now a days most of the people prefore the junk foods like oil food we need to ignore these for living longer. For living longer we need to do YOGA it is more importent for our life, by using yoga we will get better ideas physical strength . For living longer everday we need to do Yoga and meditation and we need to take healthy food everday at specefic time.'
 p83
-aI0
-aS"In 2015, it is common to hear a story on the news of a person living well past 100 years. These used to be extreme cases many years ago, but they have become regular occurrences. There are several contributing factors to this phenomenon, including technological advancements, increased awareness, and increased access to resources. Technology is a major contrinbuting factor to people living longer lives. The advancements in medicine is quite astonishing compared to 100 years ago. Physicians have many resources at their fingertips to help diagnose and treat patients suffering from a variety of medical conditions. Whether it be a chronic condition such as diabetes or a more serious condition such as cancer, there are more treatments available that help heal people quicker and help them manage normal lives. Additionally, medicine to help maintain chronic conditions have become very affordable for people to purchase. Lastly, there is a much larger focus on preventative care and medicine to help diagnose issues early on so that physicians can treat these conditions earlier. Patients are strongly encouraged to participate in preventative screenings to identify any issues and move forward with treatment if necessary to help them live a longer and healthier life. In addition to technology being a driving force behind people living longer, people also have more awareness and access to resources to better their life. There are television networks, magazines, websites, and even mobile apps dedicated to living a healthier life. These resources showcase healthy lifestyle tips including exercise plans, meal plans, and even healthy sleep habits. With all of this information at people's fingertips, it is easy for them to learn what they need to do to maintain a healthy lifestyle and live longer. With access to all of these resources, people are living longer, healthier lives."
+aS'in a hurry to attend a function..sorry, seeya'
 p84
-aI6
-aS'i disagree with this statement. in nowday there is no time for the person to take care of there health.they are very busy with there work.they dont have the time for they familly. for example, a person who s work is to just sitting infront of the computer system and this will effect there health. they may face many problem related to their health like cervical problem, back problem , it will effect the eyes. and many other. so this busy scdule of the nowdays life will be more prone to the deadly diseases.and the mdicine we have intake to overcome these diseases are also very dengerous for the health. so in the end i want to say that i disagree with this statement'
+aS'These days people living more because of their food habits that may include good dietary balance, appropiate meal in specific interval time. Also reason they living more include that adequate rest to body after heavy work out helps to refresh the energy again. More specific I want to highlight that adoption of well planned time table of daily routine activity need to be important as fix timings of getting early awake, having good heavy breakfast, timely having lunch a bit lesser in comparison to breakfast then small cup of tea and evening light dinner with early timing improves your health orientation more precisely.'
 p85
-aI1
-aS'I think one of the causes is modern technology. Technology is very advanced nowadays, and also technology comes into many forms. Gadgets and appliances are one of them. But also technology can be applied into medicines. In terms of having cancer it is treatable now by chemotherapy. In Dengue there are many tests that will idenify if you are positive or not. There are many of technologies seen on the hospitals now. Incubator, Dextrose, Pulserate reader, and many more. Many of the taken medicines uses technology. On TV Ads you can see brands of medicines. Because of technology our lives is easier now.'
+aS'"In general,people are living longer now." The simple reason behind this fact or phenomena is that now-a-days people are more concerned about their health and diet.They are even too cautious about their lives and the development in the science and technology had lead to the inventions of various treatments in the fields of medical science,which is just like a boon for people suffering from several diseases and gets recovered by these mazical treatments.This advancement in the medical science has been like a god\'s miracle,which can give the life to the patients once again.Besides,there are several people doing various exercises and joined various gyms ,in order to maintain good health.As people are very concious about their health, many yoga camps has been organized.The most surprising and great thing for our nation is that our prime minister Mr. Narendra Modi has promoted and organized for the "World Yoga Diwas" for the first time in the history,this really shows how much we all are concerned about our lives and health.I have also seen the craze of the body fitness and health improvement plans among youngsters.There are several number of people who control over their diet and eat only healthy things in order to make sure ,that whatever they eat should not harm to their health and this is what the leading phenomena towards the cause of people living longer these days.In ancient times ,people do not had any advanced science and technology in medical science and people were not so concious about their health and diets, they were just like used to eat whatever they wished, they never concern about the adverse effect of those in their health and there were not much number of hospitals for them to get treated for their health issues, and this fact had lead to their short lives,but now as there is advancement in everything,thus people are living longer now a days.'
 p86
-aI2
-aS'people living longer now because of their healthy life style and having regulare healthy food consumption.people who are living long means it implicate that they have learned to maintain their physical development and mental growth.ofcource people will live long by good health assisstance provided by the government of india. reason for the people ars living longer now because god put them to lead a long life.'
+aS"people are living longer now but in a general way . but some of the pepole are so much busy in there workful life that they are not properly able to enjoy there life . Due to ther busy schedule they doen't have the time for them or there loveonce . Nor they have a healthful life,good habitate.So due to so busy life and compition the youth is taking so stress of it . That how they will servive in this world . people how are eraning good are satisfied with ther life . But the people how has to start eraning there life are needed to work hard to manage in there life . its just a saying that people are living longer but they have to undergo a stress full lifestyle ."
 p87
-aI1
-aS'According to my opinion, yes In general,people are living longer now..because of the day by day new technologies and new treatments are avilable,as well as some people are properly follw to do exercise and yoga because of they have many technologies there will growth in health problems .. exercises and yoga are great helpfull for our health it also freshup of our mind and helps in meditation.. today people indulge in various social activities like laughter club thearapy and daily visit there to do laugh and keep healthy..'
+aS'people are living longer because their foods and habits are very well and good conditions.people are doing some good healthy yoga and some meditations in their life.this is because due the disease that causes the people in their life.in india.most of people were harmed by cancer and many more disease,so the people are interested in working with the some diet food some healthy yoga.india has declared the yoga day so the people are all interested in yoga this is also a reason to people who all are live long.mostly the people are good to taking some good foods and some rest in the weekends so that the people are very well.so that the people in india are mostly taking some of groundnuts in the daily life.if we taking the daily nuts its very good for our health and to body.people who all are taking good foods are live long in some of country.eating non-veg is the good only even we have to stay away from non-veg.so the body will be fresh and neat in good manner.we should daily drink plenty of water so that the body will be cool,if the body is cool most of the problems will not be affected this is due to the high level of water in our body.the most of the people will follow the some of drinking too much of water.water can help in many ways to protect the body in good manner,after taking foods we should drinking a glass of water to get the food will be in the stomach.water is also a part for people who live long in their life.we should apply the conditions to get the most of the people will be in good manner in taking the good food and much more are in the routine life.people should take good food for live long in their life.we should try to take some of fresh good fruits in our life in the morning and evening time.by taking the fruits the blood level in the human body is get increased and much more to perform daily works.we should take some good foods,water,and some fruits in daily life.'
 p88
-aI2
-aS'Today the population increases day-by-day. So, there are increase in the new inventions also. New diseases are created day-by-day. So,our scientists and doctors search medicines on every dangerous disease. People are also economically strong . So, they can take costly treatment also. So every disease can be curable. So there is no any chance to die by any disease.So, people can get treatment as early as possible because there are so many hospitals at city as well as inrural areas. That is why, people can recover easily. So that people are living longer.'
+aS'People are living longer.Because they need rich life and enjoyment in your life.Many people are need the devlopment in there life.But all people are go forword from every one.They are create a new technology and culture.Many people are genrally honest and great.They are devolop in there life.They are take enjoy lif'
 p89
-aI2
-aS'people are living longer now behind this reason that the many of them take good foods,and do exercise and fit the own body.HEALTH IS WEALTH is a statement if follow this then we get the many of them are find more of them and the crucial amount of health and many more things that is very important for me and most of the time is expend to the own work,if take sometime regularly from the entire day the day will be the shifted and many of the people will be healthy.'
+aS'in general people are living longer in old life ,because of the only reason is that the people are very secure about her health .people are enjoy her life with our success and failure.but now a days we can say thhat this phenomenon is not true,because of the pollution and other some effect like unemployment.beacuse of this reason,now a days people are not leaving longer.A farmer use many fertilizer in the field,this fertilizer is also produces a disease,this reason,now a days people are not living longer.'
 p90
-aI1
-aS"People are living longer now. Yes, as compared to two decades back, we lacked medical expertise, innovative treatment and safety measures. The growth of medical industry, technological advancements etc have led to the enhancement and betterment of the health conditions of the patients. The various prime issues of health were cancer, AIDS and such. But, now things have changed drastically. There are medications done for cancer by which a patient can survive. As compared to decades back, people died due to cancer becuase there was no medication for it. But, now due to the technological advancement and researchs done by the scientists has helped in saving many lives. The other reason is education. Back in 80's people hardly knew about safety measures and they dint knew about how they could resist a heartattack or cardiac arrest. But now people are aware of the safety and precautionary measures that can be taken during mishaps. Also, the growth in the service sector has led to better health facilities. 24*7 Ambulance service and innovative hygiene techniques are some. The rise in the economy and earning capacity has also increased the rise in the health conditions of the people. People in early 80's weren't educated and couldn't afford bills. People nowadays can afford medical treatment in abroad too. The promotions of the health industries have educated the people to adopt hygiene techniques and to control the risk of getting infected. The various ads on TV also help in preventing diseases such as saffola oil decreasing the risk of heartattack, Dettol handwash decreasing the risk of infection through virus and bacteria and lifeboy. Hence, with all such facts we can conclude that people are living longer now due the above stated changes in the health industries and also with the growth of the service sectors."
+aS"people are living longer now, because of their lifestyle they are now doing some exercises to keep their body young and healthty, they are also doing a research of how to keep their mind strong and physically fit. in fact, a lot of multi vitamins is now available in all leading drugstores. most importand they keep in mind that instead of eating in a fast food restaurand they'd rather cook and eat a fresh fruits and vegetables. sleeping habit is also one of the main reason why people lives longer today. and last drinking a lot of water can also detoxify your body."
 p91
-aI4
-atp92
-b.
+aS'yes i think some time the people are living longer now.Becouse in village the property of father or grand father is handling by son and the enviroment effect on people are very effected.Therefore the people are living some time longer.But the goverment employee and also private employee change the living place according to tranferin other place.There are some difficult for some time'
+p92
+aS"People are living longer now because of their lifestyles. Most of the people who live longer are the old ones and they are mostly living in Urban areas. They are very meticulous about what they are eating. They eat healthy foods like organic vegetables and fruits because they have a place where they can plant their crops and trees. Urban areas help more people to live longer because of fresh air, unlike here in Manila wherein there's a pollution and an over populated place. Here in Manila, I think you could also live longer if you take good care of yourself. You can go to the gym, eat healthy foods and sleep 8 hours a day."
+p93
+aS'I did not think that people are living longer now because now the pollution is increases very high rate. The people are busy in their works and they did not care about their health. They did not walk so much as compare to the old people. Now the people only think about theirselves and they want more comfort and did not care their health. Pople are now become very selfish. CAUSES: 1. Laziness in the human beings. 2. Selfish and busy in their works. 3. People now requires only money and comfort.'
+p94
+aS'People living now are aware because\xc2\xa0they take the right food to intake and the circumstances of ignoring proper diet and correct exercies'
+p95
+aS'The Phenomenon is the causes of some disease. The phenomenon is to cure only the medicines and take a regular treatment in the concerned hospitals.In general the people are living longer now to cure the phenomenon disease. The phenonemon is easily passed to others easily.'
+p96
+aS'Most of the people living in phenomenon . because of their personal life they are facing meny problem and diffent level . now this days all people affected to some other issue. they are execpting good phenomenon their life.'
+p97
+aS'People are living longer now. Its because of the advancement of technology. Researchers and scientist have been introducing new and powerful medicines. Even medicines for dangerous deseases like cancer and other also have been introduced. So because of this reasons life expectancy rate of people increasing. Advancement of medical technology is not the only reason, there are reasons like consumption of nutritious food and exercises life style etc., are also reasons which increases the life expectancy rate.'
+p98
+aS'There has been a phenomenal increase in the general awareness amongst the people in recent times. The reason for this awareness being the accesability of media such as news, internet, social media etc. At the same time, the medcine and its research is also fast improving. People have got awareness of the improving medical facilities. With growing cost of medical treatment, several insurance facilities are being provided by govenrment and also private insurance firms which makes the treatment reachable to rich as well as poor. Also the growth of awareness on aerobics, yoga, exercise etc are leading towards the healthier lives.'
+p99
+aS"Actualy people tend to live lesser not longer because of the food they take, society of living they are into. Food consumption and pollution are the main cost why they live shorter. It ias the unhealty proccesed food like hotdogs ang sausages, unhealthy snacks like junk foods, softdrinks, and basically the polution that can cause stress and make them unhealthy. Notlike the people in the early generation they usually achieve the age of 90 or more beacause there' no proccesed foods full of preservative. only healthy fruits and vegetables."
+p100
+aS"LONG LIVE OF PEOPLE The people in now-a-days are living long life. They are happy to live more days. Some may not like to live more days. The causes may not be much. But the main cause will be that, they may be healthy enough to live more days. This shows that our technology has developed, which makes the people to live more days. REASONS: The reason that i believe in is that technology development in science & medicines. The grandparents of ours may live long days because of their food habits & eating healthy food. These would be the reasons for people's long live that i think so."
+p101
+aS'Yes, this is right people are living longer now. All people are busy due to their work, they do not have time to meet peoples. So, they are not meet to each other and automatically they go longer from each other. But they can be stay connected to each other by phone call, video conferrencing, etc.'
+p102
+aS'I believe that people are living longer now because of the awareness brought by technology. There are four reasons why people are living longer now. First, they are well educated about the side effects of using products with harmful chemicals Second, they are now informed of what might happen if they will continue to patronized processed foods such as products with preservatives Third, there are products available in the market that are natural and organic, although these products are more expensive. Finally, people become more health conscious and give more time to read the contents of the products that they are using. Thus, people are living longer now.'
+p103
+aS'In general,people are living longer now. In general ,people are living longer now because as compare to the past the medical sciece is very developed now a day, there are medicines available on every diseases for that reasone the chances of increasing the emunity is increases and people live the the life longer and heather now a days. the work is divided that way people work in a team iths also divide the tress load of the people , the all industries is going towards the machine based work that is the one of the best reasone of the people work and stres load get decreases and they live pure and longer life.'
+p104
+aS'Now a days people are living longer beacsue of the environment and neature of the people where they are living and mainly type of food what they are having is hygenic and they are living the such ares where there is less of pollution and having frsh air is also one of the big advantage for them to live long. when any people live this kind of environment its keep their helth good always and they need to go to haospitals so they will not take any tablests which can be make side effoect on human body. and daily basis they will be working very hard to get their food and daily needs so this is also one of the best reason to keep them healthy along with their environment and living area. so when they are working daily they will be physically fit and they will avoid the sugar, BP these kind of disease and they will be healthy for long time. when the people have no any other health issue so they will be dafinatly live longer now a days. and the food what they are preparing it will not include any chemical in that so there is no side effect from the food what they are having. vegetable, rice whatever they will be having all the food is growing with their own land with out any chemical. so when people have the food like this there will be less of disease to those people and they will live longer.and if i want to give one more good example for them who live longer now is water. the water what they are drinking is purified and there is no water pollution at all with the water what they are drinking.and all those people now are most loving people they will be keep helping one another and they are so cousious about their helth and safty and they will encourage their kinds and educate them to be live like them so that in future their kids also has to live longer like them. and they will be happy in their life always. when they are good at health and all heart disease also will not be their for them because there is no chlostrol which will cause for heart disease. so these are the resonsand examples for the people are living longer now.'
+p105
+aS"We have heard that people of ancient ages lived longer. The reason is that they tried to live by nature, solely depending upon nature. We know the we cannot live without nature. Let us find the some of the reason why they were able to live longer,healthy and hygienically. I firmly believe that there is a creator of nature who has organized it perfectly to help humankind live healthier. So much of scientific inventions has deviated man away from nature. The food habits, the living style, dresses we wear. All of these has affected our health which reduces our lifetime. Our Body is like a machine that is designed to be systematic. God has created us like that by nature, It is very well organized. I am not a science student, but I can explain some of the basic things. Initially our digestive system is wondrous mechanism that is supernaturally created by God. As soon as we eat, when we intake food, it is ready to process the digestion. This is not by our order, it is done automatically, I believe it is the control of God. But as the science evolution started, we started developing varieties of colorful and delicious food, Our digestive system is loaded very much and that is the reason there is so much of diseases like Diabetes, obesity etc. The natural foods are harmless, the fruits, vegetables. They don't ruin our health. But these modern spicy Pizzas, burgers and so much. These are that that spoiled our body and reduced our lifetime. MAJOR REASONS ON FOOD THAT AFFECTS OUR LIFE PERIOD : * jun * contaminated foods. *Artificial attractions and colors that affects our body. We can live longer only if we only intake that is natural which has so much minerals without any side effects in future. I would rather live in a forest to eat fruits, vegetables which are moderate tasty and live longer than to devour modern foods that are spicy and delicious and die soon."
+p106
+aS'Nowadays there are various different ways a human being can live longer. Various kinds of medicines and foods are available to live longer. But actually people can live longer when they are in a clean environment and lead a happy life. In most cases people who stay in polluted environments have to face many diseases and other type of illness. when living in a safe and secure environment, people are healthy n are free from diseases. Even if they get any type of diseases they can be cured by simple methods.'
+p107
+aS'Whem the people are living longer ,this people face to many problem just like importance intrument(kiranamala,cloth,tax,etc). Light problem in this area.school,college problem also provide.every people feeling insecuar.any one want to go argenty another place but at that movement tax or bus not available. In emergancy case hospital is not there ,pacient shoud be died.boys want to play some thing but ground is not there so all boys go to the near city.water problem also provide . this problem is very importan. in this area not celibrat many function or big funtion just like dashera ,diwali ganpati funtion .'
+p108
+aS'many peoples are many resion living in one place becouse he not offten more money'
+p109
+aS'In general people are living longer now a days. People are concentrating on themselves. They are regularly doing exercises, yoga, etc for making their health stronger. They also improving their diets, taking advices from the doctors about what to eat, when to eat, how to eat. Most of the companies are making herbals for making human body stronger. Many youngsters are taking their fitness seriously. They are going to the gyms, taking instructions from the body trainer and using various supplements for improving body. They daily uses the protein shakes with milk, egg,etc which is a good source of energy for our body.'
+p110
+aS'People has more chances of living longer now because of advance technology. We have developed different kinds of medical technologies that can identify different kinds of illnes. Like for example, for the newly born babies, they have new born screening which identify possible illnes or abnormalities of the babies in the future as they grow older. With this kind of technology, it really helped the people to take care of their health conditions and for further prevention of their future illness.'
+p111
+aS'I disagree with this following statement that "in general, people are living longer now".according to my opinion due to various disease like cancer,tb etc, people are drying in mid sixty.according to indian government servay most of the people are die in age between 50 to 60yr.due to global warning,forest degradation etc, probability of disease are increase therefore people are not living longer.. today, our country suffer from many disease in each monson....'
+p112
+aS'People are living longer now because in today life or world there is very good facilities and very good technology. so it helps to live life safely.In todays worls pepole are very knowledegable and litterate so they know how can handel the problem of life. people live longer in todays worlds there is a main reason behind it is that there are very good facilities about health issue and pepole can treat them in hospitals for better life and it is very helpul of them.The other reasons are the techonology which gives better facilities in every case and every sitituations.'
+p113
+aS"People live longer now for several reasons. Technological advancement in dealing with illnesses is one. It improves quality of living by engaging sick patients in their course of recovery. Advertisments as well are rampant in all sorts of media that educate people on how to live a healthy lifestyle. Medication for certain illnesses are also highly available in the market that allows consumers to buy prescribed medicine for their condition. Doctors, nurses and other health providers as well are being collaborative with each one, that paves way for the team to monitor disease progress or healing in a faster manner. Machines that are being used in the hospital as well are well-equipped and maintained to offer high-end service for patients seeking for hospital admission. The sanitation is also deemed with much importance in the hospital so as not to aggravate the condition of sick patients. In addition to that, microorganims are being minimized by continuously abiding to hospital sanitation and policy. Hence by accessible hospitals, available cure such as medication to certain illnesses, skilled health professionals and medical apparatus and continued researches on how to deal with life-threatening conditions, have served their purpose in prolonging lives of people. As such, those factors evidently have helped people who has terminal illness cope up with the best that they can with the available options provided for them. Although healing takes time, it also needs spiritual intervention to get ourselves be attached to reality that nothing on Earth is constant, and even our lives are just temporary and that doesn't exempt us, human beings. Human as we are, we are entitled to face death. And as living creatures, it all boils down on how responsible we are in making choices. From the food we intake to the lifestyle we chose to prolong our life."
+p114
+aS"Quality of life and medical fecilities are improved very much over the years. Sience is taking us to new deveplepmends and new findings.Invention of medicines like penciline helped us from numourus diseces .we were able to restrict numourous diseses like polio and nemonia through drops and vaccination. certain medical treatments are available for deadly diesese like cancer.Implimentation of primery healthcenters and hospitals at every village helped in improving the overall health of people. Education also helped in improving people's awareness ."
+p115
+aS'In my point people are living longer now the cause of this phenomenon is in now a time people are giving more attention to their health they are taking their more reular chechkup.'
+p116
+aS'In todays life people are healthy and fit as compared to the people living 50 years back.Tod ay people are more conscious about their health,They know that they need to remain fit so that they can live longer and in a more happile manner.They are aware of what they aconsuming,where they are living and how to live longer.They all adopt varios diet plans,gyms,food supplements to develop or maintain the growrh of a body.Now a days people want to live as many life as possible so that they can enjoy the beatiful life given by god.'
+p117
+aS"Yes I aggree with people living longer now. Nowadays, technology took a tremondous leap from the previous couple of decades and it made the great development in the various areas like medical, enggineering, industrial etc. As the medical innovations took place, we have cured lots of diseases that couldn't be cured previous days like cancers, polio, rabis, small pox etc where people died alot. This medical innovations made the people to cure near death deaseases also. People stated to think in the environmental way where their health as well as the environmental health teaks great turn. They started participating actively in the health awareness programs and in certains activities like gym, yoga, excercise and physical development therapies for physical wellness. For mental wellness they started doing meditation, laughing therapies etc. This is at one end On the other half technology made them to live shorter too. Technology made people to think big live big and act big. In this very sense they started trying vehicles which increased traffic, music beyond limits which made noise pollution, and foremore due to the lack of family relationships, value towards humans decreased which made people to lose humanity and stated encouraging terrorism like mass killing activities. These make the killing more even though people had chance to live longer these case make them live short and sadly unexpected deaths. People are living longer, but they can live more longer if they can take control on the environment, human relationships, technology, personal health ehich will make one to survive peacefully both inner as well as outer. This not only benifits the individual but also the nation which they belong as a part of human resources and the development as they contribue themselves enormously in all the aspects moreover PEOPLE ARE THE NATION themselves."
+p118
+aS'the main reason behind that is the technolo'
+p119
+aS'the general peopal living longer now .the people is good knowlege . the people living is the pepole is very hard word .use specific region of knowlege of this section look .......that reson by peole...........now'
+p120
+aS'people are living longer now behind this reason that the many of them take good foods,and do exercise and fit the own body.HEALTH IS WEALTH is a statement if follow this then we get the many of them are find more of them and the crucial amount of health and many more things that is very important for me and most of the time is expend to the own work,if take sometime regularly from the entire day the day will be the shifted and many of the people will be healthy.'
+p121
+aS'People are living longer now . There are many causes. Because they are maintains food . They manintain helth . They maintain helth because looking good . People do gym amd morning walk. So they are helthy . Some people do diet for helthy . Because they maintain for healthy physical condition . Now a days people are very consus for helth . So, every area have a gym center , yoga center and many things. Every flat where having a gym center at ground floor. And veryous yoga center held in a days. So , pepole are living longer now. Because they eatting very consus about it . Oil,ghee and this type of things aer not eat beause this are very'
+p122
+aS'the people living longer because, of the scientific research of medicine technology by them.when the any person have enjuered then facility would be get this person so they taken good life . also people had eating a good food there are also maintain fitness and they does not un feel means they shoud each and every time take fresh.and so someone person taken be not good healthy'
+p123
+aS'I totally agree with the point that people are living longer now. As in present era medical science has achieved in milestone .In present there are plenty of hightech equipment available that can easily cure and tell the exact disease .Now heart transplant,kidney transplant even the hip transplant are common now-a-days that were used to be life threatening cause in the past .People have adopted a new lifestyle to live healthy and fit life .Now-a-days people are more consicous about their health and physic to avoid medical expensive.Moreover now people want to live their dreams.'
+p124
+aS'People are living longer now due to their change in diet, and lifestyle. They eat healthier food like vegetables and fruits that provides appropriate nutrient to live longer, and instead of eating fatty meat, they turn to red meat and white meat like beef and chicken. They also stopped smoking cigarettes, and avoid drinking too much alcohol and soda drinks that decreases risks of heart attack and diabetes. They also have a proper resting time and exercise to keep them lively and healthy. People now also values time with families that and friends that makes them more happier and live longer.'
+p125
+aS'yes I am agree with that the people will liveing longer now because their are many facilities are available in anticent time their are no such facilities thier was not more hospital or because of lack of knowlaged peopel are not able to know which thing is helpful for thier health.At that time more medicine are not develop.on some deseases medicines are not founed.At this time many hospitals are available.People eat good food.they care thier own. As people know health is more important they will take imediate action if they are sick or they will not felling well.hence in this way because of morden teachnology thier are many facility'
+p126
+aS'This reason is that,more people will love too much own life. Why? Increases the facilities day by day, incerase knowledge, improved skills, and tecnologies. more pelples are satisfied our life,our experince, knowledge.'
+p127
+aS'people are living longer now Today people were living to be much older than ever before.some of the main reasons for this are the quality of foods,people have more easily access to the medical help and care about their body conditions.people in the morden world have more products than before they can balance their for healthy eating.people get more money in work,so can buy a organic food. citizens could have medical services more easily.medicines has been expended to many deasess to attack the human body.todays environment is very worst so it very fast to destory the world.'
+p128
+aS'without a doubt , people are living longer these days then ever before.while there are many explanations for these phenomenon. i beleve that the two most important are in advancesin science and the fact that people today enjoy managable working lives.it will explore why i feel this way in the following essey.'
+p129
+aS'Now a days, people life span increased. The average life span of the people was 80 plus. The following are the reason for the long life span, 1) Advance medical inventions 2) People knows well about the need of medication ( In olden days, people avoid to goto hospital, due to that the death rate increased, particularly in case of pregnancy) 3) Hygenic habits developed more.'
+p130
+aS'Now a days peoples are living longer because in their time of growing means when they where growing they where hardwoking in farms their self only.That time there was no more growth of population that now a days causing very much.now a days lack of the products which is needed to eat,every thing is mixed it is not god for our body.Now a days there no more exercise that can be don from a human being "It is car to carpet", work. In 20-30 years ago the man where doing many work and because of no more cause of population and no more pollution they where getting good food which was required to the people.so that peoples are living longer now.'
+p131
+aS'In genral we are seen that the people is living longer now. Beacause of the peoples lifestyle is changed, and people is taking more careing of their diets, exxcersize, sleep. In peoples regular life they are doing regularly excersize,its effect is excersize is takeing people more stronger and fit. And the 2nd thing is peoples diet now a days people are more careful about the diets, what he eats and drinks. In a eating or drinking how much caleries, protins, fibers, vitamin, he is gaing. And another and last thing is sleeping, sleeping is more important thing in peoples life. When people is sleep about 8 hours in a 24 hours it is best to peoples life.'
+p132
+aS'people is long time life because very facilites available in people and another thinks that available easy doctors and any deficult solve to doctor to online connect to another solve to problem to people. people are reguler to check up to doctor. people should be regular to morning running to healt is good healt full available to easy medicnen to solve to the problem to people new idea are avialable to medicnen to use to doctor to people'
+p133
+aS'PEOPLES ARE LIVING LONGER NOW Now a day, peoples are very concentrate about his health. They are timely capable and gain meals at time. They prefer rituals and having concentration on it. Generally yogas are the spell bound technique to fitness our health. 1) Yogas are generally peoples are living longer. 2) balance diet makes peoples fit and energetic. 3) Happiness is the best way to live longer. 4) cycling being the fitness proposal.'
+p134
+aS'essay is phenomenon of thiss metter i like u betch engg. the civil engg. are most profit in which jab .the btech is more proffesinal tere are to kinds of in which the teacher are more gudines in me . soo i like tahe btech some i kind off u say that meee kusghfeyerhfkeruhyfekrufyherkfheruftyejfhwejkdhfkwejhwekhj'
+p135
+aS"These days nothing is impossible, all thanks to our technology and science which has made everything a small phenomenon.Living till the age of 90-95 is not a big deal or probably i should say if a person is alive till the age of 100 years also their is nothing suprising. But keeping in mind the kind of health facilities we have in india , it is a big problem indeed. we have huge number of patients but less beds and facilities in our government hospitals and affording a private hospital fees is no more a matter of joke. In old age a person IS faced with alot of health issues , thereby adding more financial burden to one's family as well as the society. government has increased the expenditure on health and development but india's popullation is huge. it is obvious we love our family memebers and it is difficult to see them going away from us in old age also. but if that person is occupying a bed in a goverment hospital that is not even morally correct may be beacuse of that someone could have led a better and healthy life. Moreover, nowadays youth dont want to live in a joint family. they send their parents in old age home and this is not even ethically correct.they should know what is their responsibilty towards their family and society at large. By saying all these i dont mean that in old age people should die but keeping the social and economic condition of our country in mind it is somehow posing a problem there are various reasons for such extended life span: 1. better standard of living 2. great medical facilties at doorsteps 3. people are more health conscious. everyone love their family so they try their level best taht they stay with them lifelong.they provide healthy environment to them , these days people go to gym or do yoga in such a small age. theyu want to keep themselves FIT AS FIDDLE. So, in general people are living longer and healthier life."
+p136
+aS'Yes now a days,peoples are living longer because too many medicines are available.The science is goes very long a away.....many diases are grown up but science have solution for those diases..'
+p137
+aS'Due to development of human society,people are living longer now.many factors interacting together to enable the longer life.there are three most important causes:the quality of food has been greatly improved,people have good medical survive,more and more people realize that regular sports benefits their health.the improving our food qualities is most important of our live long. firstly ,there are various type of medicine that have been found to be in medical scientist which have saves many lives.and secondly higher education for their people,therefore they provided free education until secondary school.these are the cause for people are living longer .'
+p138
+aS'In general life, people are living longer now, because the causes of this phenomenon are living are modern. people are living longr now thus important medicine are available developed skilled, memory,. its new technology and environment are very highely advance.'
+p139
+aS'people are generly living loonger now. because in this modren age ofglobligetion people are using many things which help in improve there life style. due to this in this age of globlization people are not workingb hard and they live loonger life. the other fact is that inmoderan time medical servises is very doveloped so medical sciences helps in living loonger life. medicalscience now a days improving the health status of human beingso we live longer.'
+p140
+aS'in this section,you are required to speak on the topic provided to you.the topic wiil be repeated twice. you will be given 30 seconds to think about the topics.'
+p141
+aS'People are living longer now this is because of the food they eat. Living a healthy lifestyle could somehow increase the life span of the people in the world. People nowadays are fond of doing exercises and work-out for a healthy body. Eating fruits and vegetables could help our boy form illnesses . People now a day live loger because of their healthy lifestyle.'
+p142
+aS'With the recent advancements in medical sciences and technology, one cannot agree more about the increment in the life span of human beings. Various causes, explanations and theories have been widely discussed in this context. Firstly, hospitals and health care centers spread across the globe have had a huge impact on the life span of people. With health advice and medicines accessible for all and that too within one or two mile radius from their localities, people have understood the age old wisdom of "prevention is better than cure". Also, with high levels of technological advancements and higher amounts of research to eliminate deadly bacteria and virus, one can safely assume the life span of an average human being will increase two-fold. Thirdly, the point to be noted is the present day awareness surrounding the world population. hundred years back, people wouldn\'t have had an ounce of knowledge about a common cold or an influenze symptom. Today, even a five year old kid can name the virus responsible AIDS. Understanding the causes of development is complex and very discreet at the same time. Vaccines were developed understanding the effect of the bacteria on animals. As rightly said by many, "necessity is the mother of all inventions". With the necessity to eliminate and eradicate deadly diseases, scientists all around the world have worked and are continuously working to make the world a better and healthy place to live in. In this process, immunization to various bacteria has helped man indirectly to live a long and also a health life. Also, Education can be cited as an important cause of this phenomenon. Education has imbibed people with the required amount of awareness about symptoms of various diseases and this has eventually lead to people preferrring a "precaution over cure" lifestyle.'
+p143
+atp144
+ba(lp145
+g15
+(g16
+(dp146
+g18
+g19
+(g20
+(I0
+tp147
+g22
+tp148
+Rp149
+(I1
+(L1L
+tp150
+g29
+I00
+(lp151
+g34
+atp152
+bsg36
+Nstp153
+Rp154
+ag15
+(g16
+(dp155
+g18
+g19
+(g20
+(I0
+tp156
+g22
+tp157
+Rp158
+(I1
+(L1L
+tp159
+g29
+I00
+(lp160
+g33
+atp161
+bsg36
+Nstp162
+Rp163
+a(dp164
+S'0.14.1'
+p165
+(dp166
+S'axes'
+p167
+g14
+sS'blocks'
+p168
+(lp169
+(dp170
+S'mgr_locs'
+p171
+c__builtin__
+slice
+p172
+(L1L
+L2L
+I1
+tp173
+Rp174
+sS'values'
+p175
+g57
+sa(dp176
+g171
+g172
+(L0L
+L1L
+I1
+tp177
+Rp178
+sg175
+g63
+sasstp179
+bsb.

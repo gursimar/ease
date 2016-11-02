@@ -51,7 +51,9 @@ def create(text,score,prompt_string, dump_data=False):
     if dump_data:
         dump_input_data(text, score)
 
+    # Selctes regression or classification
     algorithm = select_algorithm(score)
+
     #Initialize a results dictionary to return
     results = {'errors': [],'success' : False, 'cv_kappa' : 0, 'cv_mean_absolute_error': 0,
                'feature_ext' : "", 'classifier' : "", 'algorithm' : algorithm,
@@ -70,6 +72,7 @@ def create(text,score,prompt_string, dump_data=False):
         msg = "essay set creation failed."
         results['errors'].append(msg)
         log.exception(msg)
+
     try:
         #Gets features from the essay set and computes error
         feature_ext, classifier, cv_error_results = model_creator.extract_features_and_generate_model(e_set, algorithm = algorithm)
@@ -77,7 +80,7 @@ def create(text,score,prompt_string, dump_data=False):
         results['cv_mean_absolute_error']=cv_error_results['mae']
         results['feature_ext']=feature_ext
         results['classifier']=classifier
-        results['algorithm'] = algorithm
+        results['algorithm'] =algorithm
         results['success']=True
     except:
         msg = "feature extraction and model creation failed."
